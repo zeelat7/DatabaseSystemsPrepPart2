@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="directed">
+    <node id="pete.davis@enron.com" />
+    <node id="soblander@carrfut.com" />
+    <node id="robin.rodrigue@enron.com" />
+    <node id="kay.mann@enron.com" />
+    <node id="evelyn.metoyer@enron.com" />
+    <node id="all.houston@enron.com" />
+    <node id="no.address@enron.com" />
+    <node id="jeffrey.shankman@enron.com" />
+    <node id="gabriel.monroy@enron.com" />
+    <node id="jennifer.burns@enron.com" />
+    <node id="shirley.crenshaw@enron.com" />
+    <node id="vince.kaminski@enron.com" />
+    <node id="suzanne.adams@enron.com" />
+    <node id="outlook.team@enron.com" />
+    <node id="kathleen.carnahan@enron.com" />
+    <node id="kerri.thompson@enron.com" />
+    <node id="houston.report@enron.com" />
+    <node id="nmann@erac.com" />
+    <node id="maureen.mcvicker@enron.com" />
+    <node id="&#10;ull" />
+    <node id="vkaminski@aol.com" />
+    <node id="steven.kean@enron.com" />
+    <node id="40enron@enron.com" />
+    <node id="all.worldwide@enron.com" />
+    <node id="kate.symes@enron.com" />
+    <node id="enron.announcements@enron.com" />
+    <edge source="pete.davis@enron.com" target="pete.davis@enron.com" />
+    <edge source="soblander@carrfut.com" target="soblander@carrfut.com" />
+    <edge source="robin.rodrigue@enron.com" target="gabriel.monroy@enron.com" />
+    <edge source="kay.mann@enron.com" target="kathleen.carnahan@enron.com" />
+    <edge source="kay.mann@enron.com" target="suzanne.adams@enron.com" />
+    <edge source="kay.mann@enron.com" target="nmann@erac.com" />
+    <edge source="evelyn.metoyer@enron.com" target="kate.symes@enron.com" />
+    <edge source="no.address@enron.com" target="&#10;ull" />
+    <edge source="jeffrey.shankman@enron.com" target="jennifer.burns@enron.com" />
+    <edge source="vince.kaminski@enron.com" target="shirley.crenshaw@enron.com" />
+    <edge source="vince.kaminski@enron.com" target="vkaminski@aol.com" />
+    <edge source="outlook.team@enron.com" target="&#10;ull" />
+    <edge source="kerri.thompson@enron.com" target="kate.symes@enron.com" />
+    <edge source="steven.kean@enron.com" target="maureen.mcvicker@enron.com" />
+    <edge source="40enron@enron.com" target="&#10;ull" />
+    <edge source="kate.symes@enron.com" target="kerri.thompson@enron.com" />
+    <edge source="kate.symes@enron.com" target="evelyn.metoyer@enron.com" />
+    <edge source="enron.announcements@enron.com" target="houston.report@enron.com" />
+    <edge source="enron.announcements@enron.com" target="all.worldwide@enron.com" />
+    <edge source="enron.announcements@enron.com" target="all.houston@enron.com" />
+  </graph>
+</graphml>
